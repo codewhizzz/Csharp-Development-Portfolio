@@ -19,8 +19,8 @@ Student Database Application
 📁 Directory: /CarInsurance/
 🔗 Live Demo: [[Link to code on github]](https://github.com/codewhizzz/CarInsurance.git)
 A comprehensive web application that calculates insurance quotes based on user demographics, vehicle information, and driving history.
-🌟 Key Features
 
+🌟 Key Features
 Multi-factor Quote Calculation: Implements 11+ business rules for accurate pricing
 User-Friendly Interface: Bootstrap-styled forms with validation
 Admin Dashboard: View all issued quotes with customer information
@@ -28,7 +28,6 @@ Database Integration: Full CRUD operations with Entity Framework
 Responsive Design: Mobile-friendly interface
 
 🛠️ Technology Stack
-
 ASP.NET MVC 5
 Entity Framework (Database-First)
 SQL Server / LocalDB

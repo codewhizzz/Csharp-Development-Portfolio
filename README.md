@@ -17,7 +17,7 @@ Student Database Application
 
 # 1. Car Insurance Quote Calculator
 📁 Directory: /CarInsurance/
-🔗 Live Demo: [[Link to deployed site if available]](https://github.com/codewhizzz/CarInsurance.git)
+🔗 Live Demo: [[Link to code on github]](https://github.com/codewhizzz/CarInsurance.git)
 A comprehensive web application that calculates insurance quotes based on user demographics, vehicle information, and driving history.
 🌟 Key Features
 
@@ -53,6 +53,7 @@ Object-Oriented Programming principles
 
 # 3. Student Database Application
 📁 Directory: /StudentApp/
+ [[Link to code on github]](https://github.com/codewhizzz/StudentApp.git)
 A console application demonstrating Entity Framework Code-First approach with automatic database generation and basic CRUD operations.
 
 🌟 Key Features

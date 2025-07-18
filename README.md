@@ -1,8 +1,8 @@
 # C#-Development-Portfolio
 Welcome to my C# development portfolio! This repository showcases my journey learning C# programming, from console applications to full-stack web development using ASP.NET MVC and Entity Framework.
-🚀 Quick Overview
-This repository contains projects demonstrating proficiency in:
 
+## Overview
+This repository contains projects demonstrating proficiency in:
 Object-Oriented Programming with C#
 ASP.NET MVC web development
 Entity Framework database management
@@ -10,7 +10,6 @@ Business Logic implementation
 Game Development fundamentals
 
 ## Projects
-
 Car Insurance Quote Calculator
 Twenty-One (Blackjack) Game
 Student Database Application
